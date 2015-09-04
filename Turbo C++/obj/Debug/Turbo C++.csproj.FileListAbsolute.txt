@@ -14,3 +14,6 @@ D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++
 D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.exe
 D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.pdb
 D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.csprojResolveAssemblyReference.cache
+D:\Public Source Control\turboc\Turbo C++\bin\Debug\Turbo C++.exe.config
+D:\Public Source Control\turboc\Turbo C++\obj\Debug\Turbo C++.exe
+D:\Public Source Control\turboc\Turbo C++\obj\Debug\Turbo C++.pdb
