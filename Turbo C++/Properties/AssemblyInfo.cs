@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Turbo C++")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Tubo C++ for 32 and 64 - bit By Vineet Choudhary")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Turbo C++")]
